@@ -34,6 +34,7 @@
 		var old_info='';
 		var record;
 		var count={}
+		var participant_info=function(record){ return record.Initials+' '+record.DOB; }
 		//--------------------------------------------------------
 		var set_li_text=function(){
 		    $('.nav__ID li').each(function(){
@@ -44,7 +45,7 @@
 		//---------------------------------------------
 		$('#D__ID').on('load',function(){
 			record=$vm.vm['__ID'].input.record;
-			var info="Screening ID:"+record.Screening_ID;
+			var info="Participant:"+participant_info(record);
 			if(old_info!=info){
 				old_info=info;
 				set_counting();
@@ -88,7 +89,8 @@
 					alert(prefix+m +" is not in the module list.");
 					return;
 				}
-				$vm.nav_load_module(prefix+m,"",{participant_uid:record.UID,participant_name:record.Screening_ID});
+				//$vm.load_module_v2(prefix+m,"",{participant_uid:record.UID,participant_name:participant_info(record)});
+				$vm.load_module_v2(prefix+m,"",{record:record});
 			}
 		})
 		//--------------------------------------------------------

@@ -110,6 +110,16 @@
 		"quest_list":{
 			"list":{
 				"General information":[
+					{"table_id":"20011120","task_name":"Ethnicity"},
+                    {"table_id":"20011121","task_name":"Lifestyle"},
+                    {"table_id":"20011204","task_name":"Education"},
+                    {"table_id":"20011205","task_name":"Medical_history"}
+				]
+			}
+		},
+		"old_quest_list":{
+			"list":{
+				"General information":[
 					"Ethnicity",
 					"Lifestyle",
 					"Education",
