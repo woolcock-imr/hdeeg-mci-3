@@ -338,7 +338,7 @@
 		},
 		"BL_SleepDiary" : {
 			 "table_id" : "91000107",
-			 "url" : "tasks/SleepDiary.html"
+			 "url" : "tasks/File_upload.html"
 		},
 		"BL_Spatialnav" : {
 			 "table_id" : "91000106",
@@ -527,7 +527,7 @@
 		},
 		"FUP_SleepDiary" : {
 			 "table_id" : "91000100",
-			 "url" : "tasks/SleepDiary.html"
+			 "url" : "tasks/File_upload.html"
 		},
 		"FUP_Spatialnav" : {
 			 "table_id" : "91000099",
