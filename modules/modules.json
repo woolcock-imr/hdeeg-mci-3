@@ -216,8 +216,12 @@
 			 "table_id" : "20011223",
 			 "url" : "tasks/MMSE.html"
 		},
-		"BL_PVT" : {
+		"BL_EVENING_PVT" : {
 			 "table_id" : "20011224",
+			 "url" : "tasks/PVT.html"
+		},
+		"BL_MORNING_PVT" : {
+			 "table_id" : "20011358",
 			 "url" : "tasks/PVT.html"
 		},
 		"BL_Evening_KSS" : {
