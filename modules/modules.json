@@ -344,6 +344,14 @@
 			 "table_id" : "91000106",
 			 "url" : "tasks/Spatialnav_upload.html"
 		},
+		"BL_EVENING_KDT":{
+			"table_id" : "",
+			"url" : "tasks/File_upload.html"
+		},
+		"BL_MORNING_KDT":{
+			"table_id" : "",
+			"url" : "tasks/File_upload.html"
+		},
 		"FUP_Anthro" : {
 			 "table_id" : "20011240",
 			 "url" : "tasks/Anthro.html"
@@ -451,19 +459,19 @@
 			 "url" : "tasks/Set2_Evening_Wordpairs_Practice.html"
 		},
 		"FUP_Evening_Memtest_Set2_T1" : {
-			 "table_id" : "20011130",
+			 "table_id" : "20011254",
 			 "url" : "tasks/Set2_evening_wordpairs_T1.html"
 		},
 		"FUP_Evening_Memtest_Set2_T2" : {
-			 "table_id" : "20011131",
+			 "table_id" : "20011255",
 			 "url" : "tasks/Set2_evening_wordpairs_T2.html"
 		},
 		"FUP_Evening_Memtest_Set2_T3" : {
-			 "table_id" : "20011132",
+			 "table_id" : "20011256",
 			 "url" : "tasks/Set2_evening_wordpairs_T3.html"
 		},
 		"FUP_Evening_Memtest_Set2_T4" : {
-			 "table_id" : "20011133",
+			 "table_id" : "20011257",
 			 "url" : "tasks/Set2_evening_wordpairs_T4.html"
 		},
 
@@ -524,6 +532,14 @@
 		"FUP_Spatialnav" : {
 			 "table_id" : "91000099",
 			 "url" : "tasks/Spatialnav_upload.html"
+		},
+		"FUP_EVENING_KDT":{
+			"table_id" : "",
+			"url" : "tasks/File_upload.html"
+		},
+		"FUP_MORNING_KDT":{
+			"table_id" : "",
+			"url" : "tasks/File_upload.html"
 		},
 		"quest_list":{
 			"list":{
