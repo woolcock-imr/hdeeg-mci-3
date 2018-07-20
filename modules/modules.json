@@ -9,7 +9,6 @@
 		"participant-data":         {"table_id":"20011117",      "url":"participant-and-others/participant.html"},
 		"task-notes":   			{"table_id":"20011118",      "url":"participant-and-others/task-notes.html"},
 		"participant-login-setup":	{"table_id":"20011119",		 "url":"participant-and-others/participant-login-setup.html","name_for_search":""},
-
 		"participant":              {"table_id":"20011117",      "url":"participant/participant.html"},
 
 
@@ -70,7 +69,7 @@
 		"Concom_upload" : {
 			 "table_id" : "",
 			 "url" : "tasks/File_upload.html",
-			 "task" : "Concomitant Medications File Upload",
+			 "task" : "Concomitant Medications File Upload"
 		 },
 		"Visit_date" : {
 			 "table_id" : "20011208",
