@@ -67,7 +67,7 @@
 			 "url" : "tasks/concom_medication.form.html"
 		},
 		"Concom_upload" : {
-			 "table_id" : "",
+			 "table_id" : "91000123",
 			 "url" : "tasks/File_upload.html",
 			 "task" : "Concomitant Medications File Upload"
 		 },
@@ -225,7 +225,7 @@
 			 "url" : "tasks/PVT.html"
 		},
 		"BL_MORNING_PVT" : {
-			 "table_id" : "",
+			 "table_id" : "91000118",
 			 "url" : "tasks/PVT.html"
 		},
 		"BL_Evening_KSS" : {
@@ -345,11 +345,11 @@
 			 "url" : "tasks/Spatialnav_upload.html"
 		},
 		"BL_EVENING_KDT":{
-			"table_id" : "",
+			"table_id" : "91000122",
 			"url" : "tasks/File_upload.html"
 		},
 		"BL_MORNING_KDT":{
-			"table_id" : "",
+			"table_id" : "91000121",
 			"url" : "tasks/File_upload.html"
 		},
 		"FUP_Anthro" : {
@@ -534,11 +534,11 @@
 			 "url" : "tasks/Spatialnav_upload.html"
 		},
 		"FUP_EVENING_KDT":{
-			"table_id" : "",
+			"table_id" : "91000120",
 			"url" : "tasks/File_upload.html"
 		},
 		"FUP_MORNING_KDT":{
-			"table_id" : "",
+			"table_id" : "91000119",
 			"url" : "tasks/File_upload.html"
 		},
 		"quest_list":{
